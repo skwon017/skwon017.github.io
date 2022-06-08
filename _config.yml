@@ -107,8 +107,9 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      
-      
+       Programming Languages: <mark>python</mark> <mark>Java</mark>
+       Natural Languages:  <mark>English</mark> <mark>Korean</mark> <mark>Mandarin</mark> <mark>American Sign Language</mark>
+ 
 
 # Footer
 footer_show_references: true
