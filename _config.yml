@@ -10,7 +10,7 @@ name: Soohyun Kwon
 #title: Your job title
 email: sk7905@nyu.edu
 # email_title: Email (Email title override)
-phone: +82 10-6624-0177
+#phone: +82 10-6624-0177
 # phone_title: Phone (Phone title override)
 website: https://skwon017.github.io
 # website_title: Web (Website title override)
@@ -80,6 +80,7 @@ content:
     layout: list
     content:
       - layout: left
+        border: weak
         title: Human-Computer Artificial Intelligence Lab (HCAIL)
         sub_title: Research Intern
         caption: May 2022 - Present
@@ -87,7 +88,7 @@ content:
         quote: >
           Research group in the Department of Computer Science and Engineering at the University of Seoul
         description: | # this will include new lines to allow paragraphs
-          Research in Human-Computer Interaction
+          
       - layout: left
         title: Give Orange New York (GIVO)
         sub_title: Research & Development Director
@@ -110,12 +111,14 @@ content:
           
   - title: Skills
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      - layout: center
+    content: |
+      <h1 align="center">
         Programming Languages: <mark>python</mark> <mark>Java</mark>
       
         Natural Languages: <mark>English</mark> <mark>Korean</mark> <mark>Mandarin</mark>
-
+      </h1>
+      
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
