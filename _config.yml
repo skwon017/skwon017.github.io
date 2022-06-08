@@ -34,10 +34,10 @@ orcid_username: 0000-0003-1277-0849
 #googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+  #icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  #url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,10 +52,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  [links](http://foobar.com)
-  <mark>like this</mark>
-
-  [markdown](https://www.markdownguide.org/getting-started#what-is-markdown)
+  
 
 
 content:
@@ -91,6 +88,15 @@ content:
           Research group in the Department of Computer Science and Engineering at the University of Seoul
         description: | # this will include new lines to allow paragraphs
           Research in Human-Computer Interaction
+      - layout: left
+        title: Give Orange New York (GIVO)
+        sub_title: Research & Development Director
+        caption: Sep 2019 - May 2022
+        link: https://www.givorange.com
+        quote: >
+          Non-profit donation organization led by international students and aims to establish a healthy donation culture in Korean society
+        description: | # this will include new lines to allow paragraphs
+          
   - title: Education
     layout: list
     content:
@@ -105,9 +111,10 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Programming Languages: <mark>python</mark> <mark>Java</mark>
+      - layout: center
+        Programming Languages: <mark>python</mark> <mark>Java</mark>
       
-      Natural Languages: <mark>English</mark> <mark>Korean</mark> <mark>Mandarin</mark>
+        Natural Languages: <mark>English</mark> <mark>Korean</mark> <mark>Mandarin</mark>
 
 # Footer
 footer_show_references: true
