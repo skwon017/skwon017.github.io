@@ -50,7 +50,7 @@ orcid_username: 0000-0003-1277-0849
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: soohyunkwon/Desktop/수현/권수현.png
 about_content: | # this will include new lines to allow paragraphs
   
 
@@ -62,10 +62,10 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
+        title: 
+        link: 
+        link_text: 
+        #additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -83,7 +83,6 @@ content:
         title: Human-Computer Artificial Intelligence Lab (HCAIL)
         sub_title: Research Intern
         caption: May 2022 - Present
-    
     content:
       - layout: left
         title: Give Orange New York
@@ -105,9 +104,9 @@ content:
           New York University is a private institution that was founded in 1831.
         description: | # this will include new lines to allow paragraphs
           .
-  #- title: A Little More About Me
-  #  layout: text
-   # content: | # this will include new lines to allow paragraphs
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
       
       
 
