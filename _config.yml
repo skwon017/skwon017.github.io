@@ -52,14 +52,8 @@ orcid_username: 0000-0003-1277-0849
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  <mark>python</mark> <mark>Java</mark>
-# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  
 
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    # - Lists
-    # - Tables
-    # - <a href="google.com">Links</a>
-    # - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Publications # Title for the section
@@ -106,7 +100,7 @@ content:
       - layout: top-left
         title: New York University
         sub_title: BA Psychology and BS Data Science
-        caption: 2019 - 2023
+        caption: Sep 2019 - Dec 2023
         quote: >
           New York University is a private institution that was founded in 1831.
         description: | # this will include new lines to allow paragraphs
