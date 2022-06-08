@@ -26,7 +26,7 @@ github_username:  skwon017
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: https://www.linkedin.com/in/soohyun-lauren-kwon-098364207/
+linkedin_username: skwon017
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -34,7 +34,7 @@ orcid_username: 0000-0003-1277-0849
 #googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
+#additional_links:
 - title: Link name
   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
   url: Link url (eg. https://google.com)
@@ -52,7 +52,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  <mark>python</mark> <mark>Java</mark>
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     # - Lists
@@ -61,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
     # - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -81,13 +82,19 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: Activities
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+      - layout: left
+        title: Human-Computer Artificial Intelligence Lab (HCAIL)
+        sub_title: Research Intern
+        caption: May 2022 - Present
+    
+    content:
+      - layout: left
+        title: Give Orange New York
+        sub_title: Research & Development Director
+        caption: Sep 2019 - May 2022
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
@@ -96,21 +103,19 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: New York University
         sub_title: BA Psychology and BS Data Science
         caption: 2019 - 2023
         quote: >
           New York University is a private institution that was founded in 1831.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      #Interests:
-      Skills: Python, Java
-      # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+          .
+  #- title: A Little More About Me
+  #  layout: text
+   # content: | # this will include new lines to allow paragraphs
+      
+      
 
 # Footer
 footer_show_references: true
