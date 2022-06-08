@@ -102,13 +102,11 @@ content:
           New York University is a private institution that was founded in 1831.
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      #Interests:
-      Skills: Python, Java
-      # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Programming Languages: <mark>python</mark> <mark>Java</mark>
+      Natural Languages: <mark>English</mark> <mark>Korean</mark> <mark>Mandarin</mark>
 
 # Footer
 footer_show_references: true
