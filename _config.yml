@@ -112,11 +112,10 @@ content:
   - title: Skills
     layout: text
     content: |
-      <h1 align="center">
         Programming Languages: <mark>python</mark> <mark>Java</mark>
       
         Natural Languages: <mark>English</mark> <mark>Korean</mark> <mark>Mandarin</mark>
-      </h1>
+
       
       
 # Footer
