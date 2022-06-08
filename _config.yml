@@ -26,7 +26,7 @@ github_username:  skwon017
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: https://www.linkedin.com/in/soohyun-lauren-kwon-098364207/
+linkedin_username: kwonsoohyun
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -52,13 +52,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  [links](http://foobar.com)
+  <mark>like this</mark>
 
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    # - Lists
-    # - Tables
-    # - <a href="google.com">Links</a>
-    # - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  [markdown](https://www.markdownguide.org/getting-started#what-is-markdown)
+
 
 content:
   - title: Projects # Title for the section
@@ -84,7 +82,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
@@ -96,10 +94,10 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: New York University
         sub_title: BA Psychology and BS Data Science
-        caption: 2019 - 2023
+        caption: Sep 2019 -  Dec 2023
         quote: >
           New York University is a private institution that was founded in 1831.
         description: | # this will include new lines to allow paragraphs
