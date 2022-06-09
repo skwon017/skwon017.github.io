@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Lauren Kwon
-#title: Your job title
+title: Soohyun Kwon
 email: sk7905@nyu.edu
 # email_title: Email (Email title override)
 #phone: +82 10-6624-0177
@@ -54,10 +54,15 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   
   Loving🥰
+  
   Ambitious🤩
+  
   Understanding😌
+  
   Responsible🤝
+  
   Encouraging🤗
+  
   Noteworthy😎
 
 
@@ -92,7 +97,7 @@ content:
         caption: May 2022 - Present
         link: https://hcail.uos.ac.kr
         quote: >
-          Research group in the Department of Computer Science and Engineering at the University of Seoul.
+          Research group in the Department of Computer Science and Engineering at the University of Seoul. Explore Human-Computer Interaction.
         description: | # this will include new lines to allow paragraphs
           
       - layout: left
@@ -101,7 +106,7 @@ content:
         caption: Sep 2019 - May 2022
         link: https://www.givorange.com
         quote: >
-          Non-profit donation organization led by international students and aims to establish a healthy donation culture in Korean society.
+          Non-profit donation organization led by international students. Aims to establish a healthy donation culture in Korean society.
         description: | # this will include new lines to allow paragraphs
           
   - title: Education
