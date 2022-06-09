@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Soohyun Kwon
+name: Lauren Kwon
 #title: Your job title
 email: sk7905@nyu.edu
 # email_title: Email (Email title override)
@@ -53,6 +53,12 @@ orcid_username: 0000-0003-1277-0849
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   
+  Loving🥰
+  Ambitious🤩
+  Understanding😌
+  Responsible🤝
+  Encouraging🤗
+  Noteworthy😎
 
 
 content:
@@ -86,7 +92,7 @@ content:
         caption: May 2022 - Present
         link: https://hcail.uos.ac.kr
         quote: >
-          Research group in the Department of Computer Science and Engineering at the University of Seoul
+          Research group in the Department of Computer Science and Engineering at the University of Seoul.
         description: | # this will include new lines to allow paragraphs
           
       - layout: left
@@ -95,7 +101,7 @@ content:
         caption: Sep 2019 - May 2022
         link: https://www.givorange.com
         quote: >
-          Non-profit donation organization led by international students and aims to establish a healthy donation culture in Korean society
+          Non-profit donation organization led by international students and aims to establish a healthy donation culture in Korean society.
         description: | # this will include new lines to allow paragraphs
           
   - title: Education
@@ -103,10 +109,10 @@ content:
     content:
       - layout: top-left
         title: New York University
-        sub_title: BA Psychology and BS Data Science
+        sub_title: Double major: Psychology and Data Science
         caption: Sep 2019 -  Dec 2023
         quote: >
-          New York University is a private institution that was founded in 1831.
+          Private institution founded in 1831. Embraces diversity and ensures wide range of perspectives at one of the most dynamic cities in the world.
         description: | # this will include new lines to allow paragraphs
           
   - title: Skills
