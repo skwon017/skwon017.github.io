@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Lauren Kwon
-title: Soohyun Kwon
+title: 권수현 权秀贤
 email: sk7905@nyu.edu
 # email_title: Email (Email title override)
 #phone: +82 10-6624-0177
@@ -92,12 +92,12 @@ content:
     content:
       - layout: left
         border: weak
-        title: Human-Computer Artificial Intelligence Lab (HCAIL)
+        title: Human-Centered Artificial Intelligence Lab (HCAIL)
         sub_title: Research Intern
         caption: May 2022 - Present
         link: https://hcail.uos.ac.kr
         quote: >
-          Research group in the Department of Computer Science and Engineering at the University of Seoul. Explore Human-Computer Interaction.
+          Research group in the Department of Computer Science and Engineering at the University of Seoul. Explores Human-Computer Interaction.
         description: | # this will include new lines to allow paragraphs
           
       - layout: left
