@@ -54,9 +54,8 @@ about_profile_image: images/DSC00420.JPG
 about_content: | # this will include new lines to allow paragraphs
   
   
-  
-  Hi, I'm Lauren Kwon! I am currently working as a research intern at HCAIL under the supervision of Prof. Hyunggu Jung. My research interest is focused on human-computer interaction, especially the gesture recognition technology.
 
+  Hi! 
 
 content:
   - title: Experience
@@ -66,7 +65,7 @@ content:
         border: weak
         title: Human-Centered Artificial Intelligence Lab (HCAIL)
         sub_title: Research Intern
-        caption: May 2022 - Present
+        caption: May 2022 - Jan 2023
         link: https://hcail.uos.ac.kr
         quote: >
           Research group in the Department of Computer Science and Engineering at the University of Seoul. Explores Human-Computer Interaction.
@@ -90,12 +89,12 @@ content:
         caption: Sep 2019 -  Dec 2023
         quote: >
           Private institution founded in 1831. Embraces diversity and ensures wide range of perspectives at one of the most dynamic cities in the world.
-        description: | # this will include new lines to allow paragraphs
+        description: | Causal Inference | Fundamentals in Machine Learning | Advanced Topics in Data Science | Responsible Data Science
           
   - title: Skills
     layout: text
     content: |
-        Programming Languages: <mark>python</mark> <mark>Java</mark>
+        Programming Languages: <mark>Python</mark> <mark>Java</mark> <mark>R</mark>
       
         Natural Languages: <mark>English</mark> <mark>Korean</mark> <mark>Mandarin</mark>
 
